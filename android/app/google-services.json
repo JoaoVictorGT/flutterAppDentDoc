@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "799016762267",
+    "project_id": "appdentodoc",
+    "storage_bucket": "appdentodoc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799016762267:android:0b0682a24d70403933bf3e",
+        "android_client_info": {
+          "package_name": "com.example.app08"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4x52aDTDhTjyAbqdXvbS8HQnMkeqK_dg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799016762267:android:f27a7b969855cd3733bf3e",
+        "android_client_info": {
+          "package_name": "com.example.projetomobile2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4x52aDTDhTjyAbqdXvbS8HQnMkeqK_dg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
