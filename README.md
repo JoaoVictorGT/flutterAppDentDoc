@@ -1,8 +1,19 @@
-<<<<<<< HEAD
-# flutterAppDentDoc
-Upload de arquivos do projeto usando Flutter
-=======
-# app08
+# Projeto para Programação Mobile II
+## Aplicativo educativo DentDoc.
 
-A new Flutter project.
->>>>>>> docs_02-07-2024
+Um projeto Flutter desenvolvido por:
+
+Arthur Fedeli - 837032
+
+João Victor Thomazini -
+
+## Tela de Login
+
+
+## Tela de cadastro
+
+## Tela recuperação de senha
+
+## Tela Sobre
+
+## Home
