@@ -1,0 +1,37 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "appdentodoc",
+          "appId": "1:799016762267:android:0b0682a24d70403933bf3e",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "appdentodoc",
+          "configurations": {
+            "android": "1:799016762267:android:0b0682a24d70403933bf3e",
+            "ios": "1:799016762267:ios:a254dd6247106ca633bf3e",
+            "web": "1:799016762267:web:179aa2510cef708333bf3e"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
